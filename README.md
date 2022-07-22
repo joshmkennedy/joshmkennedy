@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**joshmkennedy/joshmkennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I’m Josh Kennedy. Im a husband, father of two, and a life long learner. Im passionate about the web and building accessible, interactive software.
 
-Here are some ideas to get you started:
+## :rocket: Lets build something together
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :boy: Pronouns
+
+he/him
+
+### :phone: Contact
+
+- email: [joshmk93@gmail.com](mailto:joshmk93@gmail.com)
+- twitter: [@JoshKen08672181](https://twitter.com/JoshKen08672181)
+
